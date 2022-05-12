@@ -1,2 +1,2 @@
-sh
-echo '${INPUT}-${BUILD_NUMBER}-DATA' > output.txt
+
+echo ${INPUT}-${BUILD_NUMBER}-DATA > output.txt
